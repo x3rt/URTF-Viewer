@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6751882}
   m_Layer: 5
-  m_Name: Viewport
+  m_Name: Input Viewport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1226,7 +1226,7 @@ GameObject:
   - component: {fileID: 1020241109}
   - component: {fileID: 1020241112}
   m_Layer: 5
-  m_Name: Holder
+  m_Name: Viewer Viewport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1410,7 +1410,7 @@ GameObject:
   - component: {fileID: 1449939461}
   - component: {fileID: 1449939462}
   m_Layer: 5
-  m_Name: Input
+  m_Name: Input Field
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
